@@ -1,6 +1,6 @@
 const translations = {
     ru: {
-        page_title: 'Dr. Искендеров Бадияр — Стоматолог в Бишкеке',
+        page_title: 'Dr. Искендеров Бадияр — Стоматолог в Оше',
         nav_main: 'Главная',
         nav_services: 'Услуги',
         nav_contact: 'Контакты',
@@ -27,14 +27,14 @@ const translations = {
         contact_label: '— КОНТАКТЫ',
         contact_title: 'Приходите в гости',
         info_address_title: 'Адрес',
-        info_address: 'г. Бишкек, ул. Алымбек Датка, 351<br>Кыргызстан',
+        info_address: 'Ош ш., Алымбек Датка көч., 351<br>Кыргызстан',
         info_phone_title: 'Телефон',
         info_hours_title: 'Часы приёма',
         info_hours: 'Пн–Сб: 09:00 — 19:00<br>Вс: выходной',
         footer_copy: '© 2026. Dr. Искендеров Бадияр. Все права защищены.'
     },
     kg: {
-        page_title: 'Dr. Искендеров Бадияр — Бишкектеги тиш дарыгери',
+        page_title: 'Dr. Искендеров Бадияр — Оштогу тиш дарыгери',
         nav_main: 'Башкы бет',
         nav_services: 'Кызматтар',
         nav_contact: 'Байланыш',
@@ -61,7 +61,7 @@ const translations = {
         contact_label: '— БАЙЛАНЫШ',
         contact_title: 'Бизге келиңиз',
         info_address_title: 'Дарек',
-        info_address: 'Бишкек ш., Алымбек Датка көч., 351<br>Кыргызстан',
+        info_address: 'Ош ш., Алымбек Датка көч., 351<br>Кыргызстан',
         info_phone_title: 'Телефон',
         info_hours_title: 'Кабыл алуу убактысы',
         info_hours: 'Дш–Иш: 09:00 — 19:00<br>Жк: эс алуу күнү',
